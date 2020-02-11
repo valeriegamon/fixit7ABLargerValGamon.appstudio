@@ -1,3 +1,4 @@
+
 let firstFriend = prompt('Enter the name of your first of three friends.');
 let secondFriend = prompt('Enter the name of your second of three friends.');
 let thirdFriend = prompt('Enter the name of your third of three friends.');
